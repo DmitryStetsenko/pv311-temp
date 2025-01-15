@@ -1,0 +1,30 @@
+{
+  "products": [
+    { 
+      "id": "1", 
+      "title": "Prod1", 
+      "descr": "Prod1 desrc",
+      "price": 1000,
+      "sale": null,
+      "img": null
+    },
+    { 
+      "id": "2", 
+      "title": "Prod2", 
+      "descr": "Prod2 desrc",
+      "price": 2000,
+      "sale": null,
+      "img": null
+    },
+    { 
+      "id": "3", 
+      "title": "Prod3", 
+      "descr": "Prod3 desrc",
+      "price": 3000,
+      "sale": null,
+      "img": null
+    }
+
+  ],
+  "category": []
+}

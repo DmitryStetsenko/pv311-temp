@@ -1,0 +1,21 @@
+.cart-header-btn {
+    margin-left: auto;
+    position: relative;
+
+    &__icon {
+        width: 50px;
+    }
+    &__value {
+        font-weight: bold;
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(white, .8);
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+}
