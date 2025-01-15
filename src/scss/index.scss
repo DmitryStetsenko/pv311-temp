@@ -27,9 +27,12 @@ input {
 @import "./components/layout/header";
 @import "./components/layout/footer";
 
+@import "./components/admin/admin-bar";
+
 @import "./components/logo.scss";
 @import "./components/cart/cart-header-btn";
 
+@import "./components/auth/user-auth";
+
 @import "./components/products/product";
 @import "./components/products/product-list";
-
